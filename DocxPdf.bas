@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module1"
+Attribute VB_Name = "docxpdf"
 Sub SaveAsDocxAndPdf()
     Dim doc As Document
     Dim docPath As String
